@@ -1,4 +1,4 @@
-# GPPR pytroch implementation for ICTIR 2023 paper
+# GPPR pytroch implementation for ICTIR 2025 paper
 
 ## Example
 
